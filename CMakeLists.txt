@@ -9,6 +9,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 # Source
 set(SOURCE_ONE_WEEKEND
+  src/rtweekend.h
   src/hittable_list.h
   src/hittable.h
   src/sphere.h
