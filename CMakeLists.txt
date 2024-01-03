@@ -16,6 +16,7 @@ set(SOURCE_ONE_WEEKEND
   src/sphere.h
   src/ray.h
   src/vec3.h
+  src/camera.h
 
   src/main.cc
 )
